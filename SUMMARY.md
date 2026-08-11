@@ -14,9 +14,9 @@
 * [Proposal lifecycle](proposals.md)
 * [Voting & delegation](voting.md)
 
-## Execution & economics
+## Product delivery & economics
 
-* [The execution layer](execution.md)
+* [The product delivery layer](execution.md)
 * [Treasury & value flow](treasury-and-value.md)
 * [The SURREX token](token.md)
 

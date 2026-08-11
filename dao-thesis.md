@@ -1,12 +1,12 @@
 # The DAO thesis
 
-SURREX is built around one belief: **collective decisions become more valuable when they are connected to accountable execution.**
+SURREX is built around one belief: **collective decisions become more valuable when a capable team is accountable for turning them into products.**
 
 ## The coordination gap
 
 Crypto communities are good at discovering ideas, forming conviction, and mobilizing contributors. The difficult part comes after a vote: product definition, design, engineering, security, launch, distribution, maintenance, and iteration.
 
-SURREX closes that gap with an execution layer. The DAO sets direction; Surrex Labs turns approved direction into product work with milestones the community can inspect.
+SURREX closes that gap with a permanent product studio. The DAO sets direction; Surrex Labs turns approved priorities into product work with milestones the community can inspect.
 
 ## What makes it a product DAO
 
@@ -16,8 +16,10 @@ SURREX combines four systems:
 
 - **Governance** for proposals, deliberation, voting, and accountability.
 - **Treasury coordination** for allocating resources against approved mandates.
-- **Studio execution** for research, product strategy, design, engineering, security, and growth.
-- **Ecosystem economics** intended to connect successful products with future builds and aligned participation.
+- **Product delivery** covering research, product strategy, design, engineering, security, launch, and growth.
+- **Ecosystem economics** designed so successful products can replenish the treasury, support future builds, and fund approved rewards for the people who help create value.
+
+The final allocation rules are still to be defined. Until they are approved, participation gives eligible holders a voice in product priorities and value-allocation decisions, not a guaranteed share of revenue or profit.
 
 ## Design principles
 

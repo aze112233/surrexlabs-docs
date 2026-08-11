@@ -8,9 +8,9 @@ The governance layer at [dao.surrexlabs.com](https://dao.surrexlabs.com) is wher
 
 ## Surrex Vibe Studio
 
-[Surrex Vibe Studio](https://app.surrexlabs.com) is an AI product builder and evidence of the studio's execution capability. A user describes a product in plain language; specialist agents help research, scope, design, build, verify, and ship it.
+[Surrex Vibe Studio](https://app.surrexlabs.com) is an AI product builder and evidence of the studio's delivery capability. A user describes a product in plain language; specialist agents help research, scope, design, build, verify, and ship it.
 
-Vibe Studio supports multiple product tracks, including websites, mobile apps, full-stack applications, browser extensions, and playable browser games. Within the DAO model, the same execution system can give approved ideas more speed and leverage.
+Vibe Studio supports multiple product tracks, including websites, mobile apps, full-stack applications, browser extensions, and playable browser games. Within the DAO model, the same production system can give approved ideas more speed and leverage.
 
 ## Surrex Studios
 
@@ -27,6 +27,6 @@ Each product can contribute one or more assets back to the ecosystem:
 - contributor opportunities;
 - evidence that improves future governance decisions.
 
-The DAO decides where collective resources should go. The studio supplies execution. Products provide the test.
+The DAO decides where collective resources should go. The studio turns those decisions into products. Real-world use provides the test.
 
 **Next:** [Roadmap](roadmap.md)

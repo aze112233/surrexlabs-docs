@@ -5,7 +5,7 @@ Participation in crypto networks, governance, early-stage products, and digital 
 ## Material risks
 
 - **Product risk:** an approved product may be delayed, fail to find users, or never become sustainable.
-- **Execution risk:** scope, budget, staffing, dependencies, or technical complexity may prevent delivery.
+- **Delivery risk:** scope, budget, staffing, dependencies, or technical complexity may prevent delivery.
 - **Governance risk:** low participation, concentrated voting power, delegation capture, conflicts, or rushed decisions can produce poor outcomes.
 - **Smart-contract risk:** code defects, oracle failures, compromised keys, bridge failures, or malicious integrations can cause permanent loss.
 - **Treasury risk:** volatility, illiquidity, counterparty failure, operational mistakes, or inadequate controls can reduce runway.

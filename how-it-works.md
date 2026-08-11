@@ -12,7 +12,7 @@ The community challenges assumptions before capital is committed. Feedback can n
 
 ## 3. Vote
 
-When a proposal meets the required standard, eligible token holders vote. A passing decision establishes a mandate; it does not erase execution, legal, security, or treasury constraints.
+When a proposal meets the required standard, eligible token holders vote. A passing decision establishes a mandate; it does not erase delivery, legal, security, or treasury constraints.
 
 ## 4. Execute
 

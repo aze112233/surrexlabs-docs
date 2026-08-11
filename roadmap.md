@@ -6,7 +6,7 @@ The roadmap follows one loop: prove the studio ships, hand the community the whe
 
 **Status: now shipping**
 
-Establish public proof through live flagship products. Surrex Vibe Studio operates as both a product and the studio's execution engine.
+Establish public proof through live flagship products. Surrex Vibe Studio operates as both a product and part of the studio's production system.
 
 ## Phase 2 - Governance layer
 

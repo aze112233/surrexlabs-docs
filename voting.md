@@ -8,7 +8,7 @@ Voting converts community preference into an executable mandate. The live govern
 - Check the requested budget, milestones, owner, and reporting plan.
 - Review disclosed conflicts and material risks.
 - Confirm that you are using the official governance domain.
-- Understand whether the vote is signaling, binding, onchain, or subject to a later execution step.
+- Understand whether the vote is signaling, binding, onchain, or subject to a later implementation step.
 
 ## Delegation
 
@@ -18,14 +18,14 @@ Delegation should be revocable. Holders remain responsible for monitoring the de
 
 ## Proposal impact
 
-Different decisions may justify different safeguards. Routine operating choices can use lighter processes; treasury transfers, governance changes, and security-sensitive actions should require stronger review and execution controls.
+Different decisions may justify different safeguards. Routine operating choices can use lighter processes; treasury transfers, governance changes, and security-sensitive actions should require stronger review and implementation controls.
 
 ## After a vote
 
-The result should be recorded with the final proposal text, vote totals, relevant thresholds, and next action. Where execution is separate, status should remain visible until completion.
+The result should be recorded with the final proposal text, vote totals, relevant thresholds, and next action. Where implementation is separate, status should remain visible until completion.
 
 {% hint style="info" %}
 This documentation intentionally does not state a quorum, voting period, snapshot method, or token balance rule because those parameters have not been defined in this repository. Check the official DAO interface for current values.
 {% endhint %}
 
-**Next:** [The execution layer](execution.md)
+**Next:** [The product delivery layer](execution.md)

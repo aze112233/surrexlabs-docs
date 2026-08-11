@@ -1,6 +1,6 @@
 # Governance framework
 
-Governance is the operating system that connects member voice, prioritization, treasury intent, execution, and accountability.
+Governance is the operating system that connects member voice, prioritization, treasury decisions, product delivery, and accountability.
 
 ## Governance domains
 
@@ -29,7 +29,7 @@ Eligible voters signal the DAO's preference under the rules active at the time o
 
 ### Surrex Labs
 
-The studio turns approved mandates into delivery plans and product execution. It is accountable for reporting progress and escalating material changes.
+The studio turns approved mandates into delivery plans and working products. It is accountable for reporting progress and escalating material changes.
 
 ### Guardians or signers
 
@@ -41,12 +41,12 @@ Where used, security roles protect treasury or protocol operations through contr
 - conflict-of-interest disclosure;
 - quorum and approval thresholds appropriate to proposal impact;
 - treasury separation and multisignature controls;
-- time for community review before execution;
+- time for community review before implementation;
 - public decision and implementation records;
 - emergency powers that are limited, reviewable, and revocable.
 
 {% hint style="info" %}
-Exact voting thresholds, eligibility rules, delegation mechanics, and execution delays must be taken from the live governance interface and approved governance documents. This preview does not replace them.
+Exact voting thresholds, eligibility rules, delegation mechanics, and implementation delays must be taken from the live governance interface and approved governance documents. This preview does not replace them.
 {% endhint %}
 
 **Next:** [Proposal lifecycle](proposals.md)

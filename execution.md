@@ -1,10 +1,10 @@
-# The execution layer
+# The product delivery layer
 
-The execution layer is SURREX's defining feature: a permanent product capability accountable to DAO-approved mandates.
+SURREX's defining feature is a permanent product capability accountable to DAO-approved mandates.
 
 ## From mandate to product
 
-After approval, the studio converts governance language into a build plan:
+After a proposal is approved, the studio turns the community's decision into a practical build plan:
 
 1. **Frame** - validate the user, problem, constraints, and definition of success.
 2. **Prototype** - make the riskiest assumptions testable quickly.
@@ -15,7 +15,7 @@ After approval, the studio converts governance language into a build plan:
 
 ## AI-native leverage
 
-Surrex Vibe Studio is both an ecosystem product and part of the studio's execution engine. It coordinates specialist AI functions across research, product management, design, engineering, quality, SEO, security, and growth.
+Surrex Vibe Studio is both an ecosystem product and part of the studio's production system. It coordinates specialist AI functions across research, product management, design, engineering, quality, SEO, security, and growth.
 
 AI increases speed; it does not remove accountability. Material decisions, security-sensitive work, and release readiness still require appropriate human review.
 
