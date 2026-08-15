@@ -28,7 +28,19 @@ That combination is the point: the community helps set priorities, the studio su
 
 ## Who is building SURREX
 
-Surrex Labs is the core team responsible for product strategy, design, engineering, AI systems, security, launch, and operation. Its public proof today is the work itself: Surrex Vibe Studio and the interactive products developed by [Surrex Studios](https://surrex.space). Named team biographies and roles have not yet been published in this documentation; they should be added here when the team has verified them for public release.
+Surrex Labs is the core product team responsible for turning community-selected ideas into launched businesses. The team covers product strategy, interface and experience design, full-stack engineering, AI systems, security, launch, growth, and ongoing operation. That means an approved proposal does not need to assemble a new delivery team from scratch.
+
+The team's public product record provides the clearest evidence of that capability:
+
+| Product | What it demonstrates | Public status |
+| --- | --- | --- |
+| [Surrex Vibe Studio](https://app.surrexlabs.com) | An AI-native system for researching, designing, building, testing, and launching software | Live product and part of the studio's production system |
+| Orbitryx | Multi-chain treasury product design and infrastructure | Launched in 2025; the public Surrex showcase reports $140M under policy |
+| Underdog Screener | Data products, market tooling, and user-facing analytics | Launched in 2025; the public Surrex showcase reports 14,000 weekly users |
+| Surrex One | The operating system intended to coordinate the full product-building process | In development; publicly shown at phase 3 of 5 |
+| [Surrex Studios](https://surrex.space) | Games, interactive worlds, and digital experiences | Active studio portfolio |
+
+Together, these products show experience across AI, financial infrastructure, analytics, conventional software, games, and interactive media. Named team biographies and roles have not yet been published in this documentation; they should be added once the team has verified them for public release.
 
 ## Read next
 
