@@ -2,6 +2,12 @@
 
 Voting converts community preference into an executable mandate. The live governance system is the source of truth for eligibility and counting rules.
 
+## How voting relates to $SRX backing
+
+The updated pitch deck describes staking $SRX behind ventures to influence their build priority. This venture backing is distinct from the formal voting process described here. The deck does not specify how backing is counted, how it interacts with a vote, or whether delegation applies to it.
+
+Consult the approved rules for each action. A greenlight, a governance vote, and a treasury transfer may require separate authorization steps depending on the final design. See [How SURREX works](how-it-works.md).
+
 ## Before you vote
 
 - Read the final proposal, not only its title or discussion summary.

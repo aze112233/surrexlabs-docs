@@ -18,11 +18,12 @@
 
 * [The product delivery layer](execution.md)
 * [Treasury & value flow](treasury-and-value.md)
-* [The SURREX token](token.md)
+* [The $SRX token](token.md)
 
 ## Ecosystem
 
 * [Products & ecosystem](ecosystem.md)
+* [Team & execution system](team.md)
 * [Roadmap](roadmap.md)
 
 ## Reference

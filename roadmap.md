@@ -1,43 +1,29 @@
 # Roadmap
 
-The roadmap follows one loop: prove the studio ships, hand the community the wheel, connect products to ecosystem value, and open the system to more builders.
+The updated pitch deck organizes the roadmap around proving the build-market loop: **prove execution -> prove usage -> prove revenue -> repeat**.
 
-## Phase 1 - Proof layer
+The milestones below describe the intended sequence. The deck does not provide completion dates or establish which milestones are already complete.
 
-**Status: now shipping**
-
-Establish public proof through live flagship products. Surrex Vibe Studio operates as both a product and part of the studio's production system.
-
-## Phase 2 - Governance layer
-
-**Status: next**
-
-Standardize proposals, deliberation, token-holder voting, and a public build pipeline in which community decisions become accountable mandates.
-
-## Phase 3 - Revenue layer
-
-**Status: planned**
-
-Define and implement approved mechanisms that connect product revenue, contributor rewards, idea-originator participation, treasury sustainability, and future builds.
-
-## Phase 4 - Builder ecosystem
-
-**Status: planned**
-
-Expand from one studio to a wider builder network. Community members and external teams can launch on SURREX rails while shared systems support product quality, launch, and distribution.
+| Step | Milestone | Intended outcome |
+| --- | --- | --- |
+| 1 | Activate DAO | Activate the DAO / build market with proposals, backing, and public progress tracking |
+| 2 | Open Builder | Open wider access to Surrex Builder and onboard the first wave of users |
+| 3 | Release products | Gradually release selected existing Surrex products to establish consistent execution proof |
+| 4 | First community venture | Select the first community-backed venture through $SRX conviction |
+| 5 | Build and launch | Move the selected venture through scope, build, testing, and public launch |
+| 6 | Expand key products | Launch or expand selected products such as Orbitryx and prediction-market tooling as testing is completed |
+| 7 | Next cycle | Open the next community-backed venture cycle |
+| 8 | Track metrics | Track product usage, retention, feedback, revenue, and DAO participation |
+| 9 | Publish report | Publish an ecosystem report covering products shipped, governance activity, Builder usage, and early revenue signals |
 
 ## How progress should be judged
 
-Track whether the operating loop closes:
+Progress should be visible through selected proposals, delivery milestones, public launches, and evidence of real product use. Revenue reporting should distinguish observed revenue from forecasts and any implemented allocations from the [proposed revenue model](treasury-and-value.md).
 
-- proposals become clear decisions;
-- decisions become shipped software;
-- shipped software attracts and retains users;
-- products create sustainable value;
-- value improves the ecosystem's capacity to build again.
+Public ecosystem reports should let participants connect the original backing decision to what shipped, how users responded, and what the team learned before opening the next venture cycle.
 
 {% hint style="info" %}
-Phases describe direction, not guaranteed dates. Governance, technical discoveries, market conditions, security findings, and legal requirements can change sequencing.
+This is a sequence of planned outcomes, not a dated launch commitment. Governance decisions, implementation readiness, product testing, and market feedback can change the order or scope.
 {% endhint %}
 
 **Next:** [Risks and disclosures](risks.md)

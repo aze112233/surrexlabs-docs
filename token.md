@@ -1,38 +1,64 @@
-# The SURREX token
+# The $SRX token
 
-The intended role of the SURREX token is to coordinate governance and participation across the product ecosystem.
+The updated pitch deck identifies **$SRX** as the coordination token for SURREX's community-governed build market. Its intended utility connects venture selection, ecosystem participation, and selected product access.
 
 ## Intended utility
 
-Subject to final design and applicable law, token utility may include:
+| Utility | Proposed role |
+| --- | --- |
+| Stake to greenlight | Back ventures that holders believe deserve execution |
+| Product direction | Use community conviction to influence priority in the build queue |
+| Flexible backing | Move support between ventures as conviction changes, subject to final rules |
+| Venture participation | Participate in supported venture economics where the final structure allows it |
+| Product access | Unlock selected Surrex tools, features, early releases, and ecosystem products |
+| Idea-originator incentive | Allocate a proposed 1% of a successful venture's revenue to its community idea originator |
+| Product-driven buybacks | Route a proposed portion of venture revenue toward $SRX buybacks |
 
-- proposal or governance eligibility;
-- voting and delegation;
-- prioritization of product mandates;
-- contributor or ecosystem incentives;
-- access, participation, or product-aligned utility approved by governance.
+The [venture revenue proposal](treasury-and-value.md) allocates 25% to buybacks. Neither backing nor token ownership establishes an automatic payout, guaranteed product access, or return before the relevant terms are implemented.
 
-## Parameters not announced in this repository
+## Deck allocation: PROOF EVM framework
 
-The following are deliberately **not stated** in this preview because no authoritative values are present in the project files:
+The launch framework shown in the deck allocates $SRX as follows. This is the documented design, not confirmation of a completed distribution.
 
-- blockchain network and token standard;
-- contract address;
-- total or circulating supply;
-- allocation and distribution;
-- vesting and unlock schedules;
-- liquidity venues or launch date;
-- quorum, voting weight, and delegation implementation;
-- fee, staking, buyback, burn, or revenue-routing mechanics.
+| Allocation | Share |
+| --- | --- |
+| Company treasury | 35% |
+| PROOF Bundle Snipe | 19% |
+| Liquidity pool | 46% |
+| **Total** | **100%** |
 
-These details should be published together with security review, legal disclosures, and verifiable onchain references when finalized.
+"PROOF EVM framework" and "PROOF Bundle Snipe" are the deck's labels. The deck does not define the bundle mechanism, its recipients, or a specific blockchain deployment. Those details require separate launch documentation.
 
-{% hint style="danger" %}
-There is no contract address in this documentation. Treat any address claiming to be the official SURREX token as unverified unless it is published on official SURREX properties and matches the live governance interface.
+## Locking and vesting design
+
+The deck lists the following percentages alongside the allocation:
+
+| Portion shown | Treatment in the deck |
+| --- | --- |
+| 25% | Locked for 6 months, then vested linearly over 12 months |
+| 8% | Protected in a group multisignature wallet |
+| 2% | Team float available at launch for operational needs |
+
+These portions total 35%, matching the company treasury allocation. The slide does not explicitly label their allocation relationship; final token documents should confirm it, together with the schedule's start event, custody addresses, signer policy, and release mechanics. Multisignature protection is a custody control, not a stated vesting period.
+
+## Details still to be published
+
+- Specific blockchain network, token standard, and verified contract address.
+- Total supply, initial circulating supply, and recipient addresses.
+- Launch date, liquidity venue, and implementation of the PROOF framework.
+- Backing contracts, minimum amounts, lock and withdrawal rules, and reallocation mechanics.
+- Conviction calculation, greenlight criteria, and the relationship to voting and delegation.
+- Venture eligibility, revenue accounting, distribution timing, and buyback execution rules.
+- The scope and conditions of product access.
+
+The token allocation and venture revenue allocation describe different things: the former distributes tokens, while the latter proposes how venture revenue would be used.
+
+{% hint style="info" %}
+The deck establishes design intent. It does not provide a verified token contract, deployed staking mechanism, or completed security review. Final terms and approved governance records must establish the active rules.
 {% endhint %}
 
 ## Token-holder responsibilities
 
-Governance participants should verify transactions, protect wallet credentials, assess proposal conflicts, understand smart-contract risk, and make independent decisions. Possessing a token does not guarantee profit, product access, governance outcomes, or legal rights beyond the final governing terms.
+Governance participants should verify transactions, protect wallet credentials, assess proposal conflicts, and understand the active backing and governance rules. Possessing $SRX does not guarantee profit, governance outcomes, or rights beyond the final governing terms.
 
 **Next:** [Products and ecosystem](ecosystem.md)

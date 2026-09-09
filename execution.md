@@ -4,7 +4,7 @@ SURREX's defining feature is a permanent product capability accountable to DAO-a
 
 ## From mandate to product
 
-After a proposal is approved, the studio turns the community's decision into a practical build plan:
+After a venture is selected through the backing and greenlight process and receives any required approvals, the studio turns the community's direction into a practical build plan:
 
 1. **Frame** - validate the user, problem, constraints, and definition of success.
 2. **Prototype** - make the riskiest assumptions testable quickly.
@@ -15,7 +15,9 @@ After a proposal is approved, the studio turns the community's decision into a p
 
 ## AI-native leverage
 
-Surrex Vibe Studio is both an ecosystem product and part of the studio's production system. It coordinates specialist AI functions across research, product management, design, engineering, quality, SEO, security, and growth.
+The updated pitch deck describes **Surrex Execution AI** as the system supporting research, planning, development, testing, deployment, and iteration across the ecosystem. A small core team and an expandable specialist network remain responsible for delivery. See [Team & execution system](team.md).
+
+The deck also describes **Surrex Builder** as the self-serve path for founders and creators. Existing documentation introduces the AI builder as Surrex Vibe Studio. Self-serve building and the delivery of DAO-selected ventures serve different participation paths within the ecosystem.
 
 AI increases speed; it does not remove accountability. Material decisions, security-sensitive work, and release readiness still require appropriate human review.
 
@@ -29,6 +31,8 @@ An approved initiative should expose:
 - budget usage at an appropriate level;
 - risks, blockers, and material changes;
 - launch metrics and close-out learning.
+
+After launch, reporting should track usage, retention, feedback, and revenue against the original proposal. These outcomes guide scaling decisions and inform the next community-backed venture cycle.
 
 ## Change control
 

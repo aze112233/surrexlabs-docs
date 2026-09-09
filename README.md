@@ -1,51 +1,52 @@
 # SURREX LABS DAO
 
-**Community-governed products, built to ship.**
+**Community backs. Surrex builds. Market decides.**
 
-SURREX LABS is a community-governed product platform. It combines a DAO, an AI-native product studio, and a shared portfolio of digital products. Members surface opportunities, eligible token holders choose which proposals the ecosystem supports, and the Surrex team turns approved ideas into products people can use.
+SURREX LABS is a Web3-native, community-governed product studio. Its DAO connects community ideas and $SRX holder conviction to a team responsible for research, product planning, development, testing, deployment, launch, and iteration.
 
-The studio can take a product from research and scope through design, engineering, security review, launch, growth, and ongoing operation. Its current product range includes websites, mobile and full-stack applications, browser extensions, browser games, and interactive worlds. [Surrex Vibe Studio](https://app.surrexlabs.com), the ecosystem's AI app builder, is both a live product and part of the system used to develop future products.
+The intended model is a **community-governed build market**: members propose product opportunities, holders back the ventures they believe should be built, and stronger backing moves opportunities higher in the execution queue. Surrex turns selected ventures into products; usage, retention, feedback, and revenue determine what deserves to scale.
 
-The objective is simple: give a community meaningful influence over what gets built and connect successful products to the next round of community-selected work. A proposal should not end as a forum thread. It should move through a visible pipeline from idea to decision, build, launch, and measurable learning.
+Surrex also operates **Surrex Builder**, the self-serve product-building path described in the updated pitch deck. The existing documentation introduces the AI builder as [Surrex Vibe Studio](https://app.surrexlabs.com). This path lets founders and creators build their own products alongside the DAO's community-backed venture pipeline.
 
 {% hint style="info" %}
-SURREX is being developed in phases. Governance rules, token parameters, treasury controls, and product-revenue mechanics become authoritative only when published through official SURREX channels and approved through the applicable governance process.
+This update reflects the supplied nine-page SURREX pitch deck, "pitcdeck updated surrex .pdf": the build-market model on pages 1-5, token utility on page 6, team on page 7, allocations on page 8, and roadmap on page 9. The deck describes the intended design; it does not establish that the backing mechanism, token structure, or revenue split is deployed or approved. Final implementation details must be published through official SURREX channels and the applicable governance process.
 {% endhint %}
 
 ## The operating loop
 
-1. **Propose** - a member describes a real problem, audience, product concept, and expected value.
-2. **Deliberate** - the community tests assumptions and improves the brief.
-3. **Vote** - eligible token holders authorize priority and resources.
-4. **Build** - Surrex Labs scopes, prototypes, develops, and ships in public.
-5. **Return value** - products can generate learning, reusable technology, distribution, and revenue for the ecosystem.
+1. **Propose** - community members surface product opportunities.
+2. **Back with $SRX** - holders stake behind ventures they believe deserve execution.
+3. **Greenlight** - stronger conviction moves ventures higher in the execution queue, subject to the final selection rules.
+4. **Build** - Surrex researches, scopes, designs, develops, tests, and deploys.
+5. **Launch** - products reach real users.
+6. **Measure** - usage, retention, feedback, and revenue guide further work.
+7. **Repeat** - successful products strengthen the ecosystem and support future builds.
 
-## Why SURREX exists
+## Why a DAO needs a delivery team
 
-Many DAOs can coordinate attention and capital but struggle to turn decisions into polished software. Studios can ship software but usually concentrate direction and upside in a small team. SURREX connects community governance to a permanent, AI-native studio with live product infrastructure and experience across software, AI, games, and digital experiences.
+Communities can coordinate ideas, capital, attention, governance, and distribution. The harder step is turning a decision into a maintained product. SURREX connects that community direction to a small core team, an AI execution system, and an expandable specialist network.
 
-That combination is the point: the community helps set priorities, the studio supplies the product capability, and launched products can strengthen the treasury, reward approved contributors, and fund future builds. The exact revenue allocation and reward rules are not yet final; they must be published and approved before anyone relies on them.
+The DAO helps determine what deserves execution. Surrex owns delivery and reporting. Market evidence informs whether to improve, expand, or revisit a venture. Read [the DAO thesis](dao-thesis.md) and [the team and execution system](team.md) for the full model.
 
-## Who is building SURREX
+## How value returns to the ecosystem
 
-Surrex Labs is the core product team responsible for turning community-selected ideas into launched businesses. The team covers product strategy, interface and experience design, full-stack engineering, AI systems, security, launch, growth, and ongoing operation. That means an approved proposal does not need to assemble a new delivery team from scratch.
+The deck proposes allocating venture revenue across four destinations:
 
-The team's public product record provides the clearest evidence of that capability:
+| Destination | Proposed share |
+| --- | --- |
+| Venture backers | 50% |
+| $SRX buybacks | 25% |
+| Surrex treasury | 24% |
+| Idea originator | 1% |
 
-| Product | What it demonstrates | Public status |
-| --- | --- | --- |
-| [Surrex Vibe Studio](https://app.surrexlabs.com) | An AI-native system for researching, designing, building, testing, and launching software | Live product and part of the studio's production system |
-| Orbitryx | Multi-chain treasury product design and infrastructure | Launched in 2025; the public Surrex showcase reports $140M under policy |
-| Underdog Screener | Data products, market tooling, and user-facing analytics | Launched in 2025; the public Surrex showcase reports 14,000 weekly users |
-| Surrex One | The operating system intended to coordinate the full product-building process | In development; publicly shown at phase 3 of 5 |
-| [Surrex Studios](https://surrex.space) | Games, interactive worlds, and digital experiences | Active studio portfolio |
-
-Together, these products show experience across AI, financial infrastructure, analytics, conventional software, games, and interactive media. Named team biographies and roles have not yet been published in this documentation; they should be added once the team has verified them for public release.
+These percentages are proposed and tunable as the DAO and its legal and economic structure mature. Venture backing and simply holding $SRX are different forms of participation; holding the token alone does not establish a right to the backer allocation. The revenue basis, eligibility, and payout mechanics still need definition. See [Treasury & value flow](treasury-and-value.md).
 
 ## Read next
 
 - [The DAO thesis](dao-thesis.md)
 - [How SURREX works](how-it-works.md)
 - [Join the DAO](getting-started.md)
+- [The $SRX token](token.md)
+- [Roadmap](roadmap.md)
 
 This documentation explains the intended system. It is not financial, legal, tax, or investment advice.

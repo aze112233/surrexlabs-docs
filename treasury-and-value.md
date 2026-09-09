@@ -1,38 +1,54 @@
 # Treasury & value flow
 
-The treasury turns governance decisions into funded work. Its design should protect community assets while allowing approved teams to deliver.
+The intended economic loop connects community-backed ventures to resources for the next round of product development.
 
-## Intended value loop
+**Community ideas -> $SRX backing -> selected venture -> build and launch -> users and revenue -> ecosystem allocation -> repeat**
 
-**Community insight -> approved mandate -> funded build -> shipped product -> users and revenue -> community-governed allocation -> future products**
+## Proposed venture revenue model
 
-Products may create value through subscriptions, usage fees, transaction-linked fees, licensing, services, partnerships, or other models appropriate to the product. The exact routing of any revenue depends on the product, entity structure, agreements, applicable law, and approved governance policy.
+The updated pitch deck proposes the following allocation of venture revenue:
 
-The intended model is for product revenue to cover the product's costs and then return value to the wider ecosystem under published, approved rules. Depending on the product and proposal, that value could:
+| Destination | Proposed share | Intended purpose |
+| --- | --- | --- |
+| Venture backers | 50% | Participation in supported venture economics where the final structure allows it |
+| $SRX buybacks | 25% | Route part of venture revenue toward purchases of $SRX |
+| Surrex treasury | 24% | Strengthen the ecosystem and support future products |
+| Idea originator | 1% | Reward the community member who originated the successful venture |
+| **Total** | **100%** | |
 
-- replenish the treasury and extend its runway;
-- finance new products selected by token holders;
-- reward eligible idea originators and contributors;
-- maintain shared technology, distribution, and community programs; or
-- be allocated through another lawful mechanism approved by governance.
-
-This is why participation matters even before a direct holder reward exists. Eligible holders can help choose what gets built, scrutinize budgets and results, and vote on how ecosystem value is used. Holding a token does not by itself create an automatic claim on product revenue, treasury assets, or profit; any such mechanism would require explicit terms, legal review, technical implementation, and governance approval.
-
-## Treasury principles
-
-- **Purpose-bound allocation:** every transfer maps to an approved use.
-- **Least privilege:** signers and operators receive only the access required.
-- **Staged funding:** large initiatives can unlock resources by milestone.
-- **Transparency:** addresses, policies, approvals, and reports should be public where safe and lawful.
-- **Diversification:** treasury risk should not depend on one volatile asset or counterparty.
-- **Runway discipline:** the DAO should understand ongoing obligations before funding new work.
-
-## Contributor and originator incentives
-
-SURREX intends to align idea originators, contributors, operators, and the broader ecosystem around useful outcomes. Any reward or revenue-share program must define eligibility, calculation, vesting or timing, termination, tax treatment, and legal constraints before participants rely on it.
-
-{% hint style="warning" %}
-No statement in this preview guarantees revenue, distributions, token appreciation, liquidity, or a financial return. Product outcomes and digital assets are high risk.
+{% hint style="info" %}
+The deck explicitly describes these percentages as proposed and tunable as the DAO and its legal and economic structure mature. They are not evidence of active distributions or a guaranteed entitlement.
 {% endhint %}
 
-**Next:** [The SURREX token](token.md)
+The deck labels the allocation base as "venture revenue" but does not specify gross versus net revenue, treatment of operating costs, taxes, reserves, refunds, or payment fees. This documentation therefore does not assume a distributable amount or a payout calculation.
+
+## Backers, holders, and originators
+
+**Venture backers** support a particular venture through the proposed $SRX backing mechanism. The 50% allocation is designated for venture backers; the deck does not define individual weighting, eligibility snapshots, holding periods, or the effect of moving support to another venture.
+
+**Token holders** may influence product direction and access selected ecosystem utility under the final rules. Holding $SRX alone does not establish a claim on the venture-backer allocation or treasury assets.
+
+**Idea originators** can receive the proposed 1% allocation for a successful venture under the intended model. A program must define attribution, duplicate or jointly developed ideas, eligibility, duration, and payment terms before participants rely on it.
+
+## Product-driven buybacks
+
+The proposal directs 25% of venture revenue toward $SRX buybacks. It does not define execution frequency, venue, custody of purchased tokens, or whether purchased tokens would be held, reused, or burned. A buyback allocation is not a stated burn policy or a promise of token appreciation.
+
+## Treasury controls and reporting
+
+Treasury policy should turn approved allocations into accountable work through:
+
+- purpose-bound budgets and visible approvals;
+- staged funding tied to delivery milestones where appropriate;
+- defined signer permissions and multisignature controls;
+- reporting of receipts, allocations, spending, and operating runway;
+- records of any executed buybacks and distributions;
+- review of material changes before further resources are committed.
+
+The **24% Surrex treasury revenue allocation** is separate from the **35% company treasury token allocation** in the [token framework](token.md). Final documents must identify the receiving entities and wallets and specify which decisions the DAO controls.
+
+## What must be defined before implementation
+
+The final policy needs a revenue accounting basis, backer and originator eligibility, individual allocation formulas, payout assets and timing, buyback procedures, treasury authority, reporting standards, and a process for amending the percentages. Product agreements and the applicable governance process must establish the enforceable terms.
+
+**Next:** [The $SRX token](token.md)

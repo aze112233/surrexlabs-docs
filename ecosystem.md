@@ -1,32 +1,29 @@
 # Products & ecosystem
 
-SURREX pairs a community-governed core with an AI-native studio and live product surfaces.
+SURREX combines a community-governed build market, a product delivery team, and a self-serve builder.
 
-## Surrex DAO
+## Surrex DAO / build market
 
-The governance layer at [dao.surrexlabs.com](https://dao.surrexlabs.com) is where community direction becomes structured proposals and decisions.
+The intended DAO model at [dao.surrexlabs.com](https://dao.surrexlabs.com) connects product proposals, $SRX venture backing, selection, and public progress tracking. The DAO helps determine which opportunities deserve the studio's execution capacity.
 
-## Surrex Vibe Studio
+## Surrex Builder
 
-[Surrex Vibe Studio](https://app.surrexlabs.com) is an AI product builder and evidence of the studio's delivery capability. A user describes a product in plain language; specialist agents help research, scope, design, build, verify, and ship it.
+The updated pitch deck calls the self-serve path **Surrex Builder**. The existing documentation introduces the AI product builder as **Surrex Vibe Studio** at [app.surrexlabs.com](https://app.surrexlabs.com).
 
-Vibe Studio supports multiple product tracks, including websites, mobile apps, full-stack applications, browser extensions, and playable browser games. Within the DAO model, the same production system can give approved ideas more speed and leverage.
+The self-serve path supports founders and creators building their own products. In the DAO path, the community backs opportunities and Surrex takes responsibility for selected ventures. Using the builder alone does not establish DAO approval, treasury funding, or participation in the proposed venture revenue split.
 
-## Surrex Studios
+## Surrex Execution AI
 
-[Surrex Studios](https://surrex.space) develops interactive worlds, including SURREALVERSE. It extends the ecosystem beyond conventional apps and demonstrates product craft across games and digital experiences.
+The deck describes Surrex Execution AI as the system supporting research, planning, development, testing, deployment, and iteration across the ecosystem. It supports the core team and specialist network described in [Team & execution system](team.md).
 
-## The compounding model
+## Product pipeline
 
-Each product can contribute one or more assets back to the ecosystem:
+The deck's roadmap calls for selected existing products to be released gradually, followed by the first community-backed venture and further venture cycles. It also identifies Orbitryx and prediction-market tooling for launch or expansion as testing is completed. The deck does not confirm completion of those milestones.
 
-- recurring or transaction-linked revenue;
-- reusable software and infrastructure;
-- audience and distribution;
-- proprietary workflows and operating knowledge;
-- contributor opportunities;
-- evidence that improves future governance decisions.
+[Surrex Studios](https://surrex.space), including SURREALVERSE, remains part of the ecosystem described in this repository, extending its product scope to games and interactive worlds.
 
-The DAO decides where collective resources should go. The studio turns those decisions into products. Real-world use provides the test.
+## How products strengthen the ecosystem
 
-**Next:** [Roadmap](roadmap.md)
+Products can contribute revenue, reusable software, audience and distribution, operating knowledge, and contributor opportunities. Real usage and feedback improve subsequent venture selection. The [proposed revenue model](treasury-and-value.md) describes how venture revenue could support backers, $SRX buybacks, the treasury, and idea originators.
+
+**Next:** [Team & execution system](team.md)
