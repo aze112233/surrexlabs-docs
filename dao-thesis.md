@@ -4,11 +4,17 @@ SURREX is built around one belief: **collective decisions become more valuable w
 
 ## The coordination gap
 
+![Pitch deck slide describing the execution gap between DAO coordination and researching, building, launching, and improving products](assets/pitch-deck/dao-execution-gap.png)
+
 Crypto communities are good at discovering ideas, forming conviction, and mobilizing contributors. The difficult part comes after a vote: product definition, design, engineering, security, launch, distribution, maintenance, and iteration.
 
 SURREX closes that gap with a permanent product studio. The DAO sets direction; Surrex Labs turns selected priorities into product work with milestones the community can inspect.
 
 ## A community-governed build market
+
+![Community-governed build market: community proposals and $SRX conviction connect to Surrex execution and market validation](assets/pitch-deck/community-build-market.png)
+
+*The pitch deck's intended build-market model.*
 
 The updated pitch deck makes product selection explicit: members propose opportunities, $SRX holders back ventures, and stronger conviction moves those ventures higher in the execution queue. Surrex supplies the research, planning, development, testing, deployment, launch, and iteration needed to turn a selected opportunity into a product.
 

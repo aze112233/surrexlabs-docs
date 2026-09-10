@@ -15,6 +15,10 @@ After a venture is selected through the backing and greenlight process and recei
 
 ## AI-native leverage
 
+![Pitch deck diagram connecting DAO and community coordination, AI-native product execution, software and SaaS creation, and Web3-native ownership and participation](assets/pitch-deck/community-and-ai-execution.png)
+
+*How the pitch deck connects community coordination to product execution.*
+
 The updated pitch deck describes **Surrex Execution AI** as the system supporting research, planning, development, testing, deployment, and iteration across the ecosystem. A small core team and an expandable specialist network remain responsible for delivery. See [Team & execution system](team.md).
 
 The deck also describes **Surrex Builder** as the self-serve path for founders and creators. Existing documentation introduces the AI builder as Surrex Vibe Studio. Self-serve building and the delivery of DAO-selected ventures serve different participation paths within the ecosystem.

@@ -1,6 +1,10 @@
 # SURREX LABS DAO
 
+<img src="assets/brand/surrex-logo.png" alt="SURREX LABS logo" width="320">
+
 **Community backs. Surrex builds. Market decides.**
+
+![SURREX LABS pitch deck cover: where community conviction becomes real products](assets/pitch-deck/surrex-labs.png)
 
 SURREX LABS is a Web3-native, community-governed product studio. Its DAO connects community ideas and $SRX holder conviction to a team responsible for research, product planning, development, testing, deployment, launch, and iteration.
 

@@ -2,6 +2,10 @@
 
 SURREX connects community direction, $SRX backing, studio execution, and market validation in one product-building loop. The updated pitch deck describes the following intended workflow.
 
+![Seven-step product loop: propose, back with $SRX, greenlight, build, launch, measure, and repeat](assets/pitch-deck/idea-to-live-product.png)
+
+*The proposed operating loop from the pitch deck. [View the full-size slide](assets/pitch-deck/idea-to-live-product.png).*
+
 ## 1. Propose
 
 Community members identify a product opportunity and submit a structured brief: the problem, intended users, proposed solution, strategic fit, risks, resources, and success criteria. Discussion helps improve the idea before it enters the venture pipeline.

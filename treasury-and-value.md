@@ -6,6 +6,10 @@ The intended economic loop connects community-backed ventures to resources for t
 
 ## Proposed venture revenue model
 
+![Pitch deck economics slide showing proposed venture revenue shares of 50% to backers, 25% to $SRX buybacks, 24% to the treasury, and 1% to the idea originator](assets/pitch-deck/token-allocation-and-revenue.png)
+
+*The revenue model is the right-hand panel; token allocation and vesting occupy the other panels. Percentages are proposed and tunable. [View the full-size slide](assets/pitch-deck/token-allocation-and-revenue.png).*
+
 The updated pitch deck proposes the following allocation of venture revenue:
 
 | Destination | Proposed share | Intended purpose |

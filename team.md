@@ -2,6 +2,10 @@
 
 The updated pitch deck presents SURREX as a small core team supported by AI execution and an expandable specialist network. The following roles reflect the deck's team slide.
 
+![Pitch deck team slide presenting Azee as Founder and Product Lead, Josh as Community Lead and Assistant Developer, and Surrex Execution AI as the execution system](assets/pitch-deck/team-and-execution-ai.png)
+
+*Team artwork and roles from the pitch deck. [View the full-size slide](assets/pitch-deck/team-and-execution-ai.png).*
+
 ## Azee - Founder / Product Lead
 
 Azee leads product direction. The deck describes experience across NFTs, gaming, AI products, and community building, with a progression from art and communities into software, automation, and product development. Within the SURREX model, this role connects community opportunities to practical product scope and execution.

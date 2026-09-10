@@ -4,6 +4,10 @@ The updated pitch deck identifies **$SRX** as the coordination token for SURREX'
 
 ## Intended utility
 
+![Proposed $SRX utilities: venture backing, product direction, flexible backing, venture participation, product access, originator incentives, and buybacks](assets/pitch-deck/srx-token-utility.png)
+
+*Pitch deck illustration of proposed utility. The dashboard artwork does not verify live balances, product access, or active buybacks. [View the full-size slide](assets/pitch-deck/srx-token-utility.png).*
+
 | Utility | Proposed role |
 | --- | --- |
 | Stake to greenlight | Back ventures that holders believe deserve execution |
@@ -17,6 +21,10 @@ The updated pitch deck identifies **$SRX** as the coordination token for SURREX'
 The [venture revenue proposal](treasury-and-value.md) allocates 25% to buybacks. Neither backing nor token ownership establishes an automatic payout, guaranteed product access, or return before the relevant terms are implemented.
 
 ## Deck allocation: PROOF EVM framework
+
+![Pitch deck allocation and vesting design alongside the proposed venture revenue split; the tables below explain the token figures](assets/pitch-deck/token-allocation-and-revenue.png)
+
+*Launch design and proposed economics from the pitch deck. [View the full-size slide](assets/pitch-deck/token-allocation-and-revenue.png).*
 
 The launch framework shown in the deck allocates $SRX as follows. This is the documented design, not confirmation of a completed distribution.
 

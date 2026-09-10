@@ -4,6 +4,10 @@ The updated pitch deck organizes the roadmap around proving the build-market loo
 
 The milestones below describe the intended sequence. The deck does not provide completion dates or establish which milestones are already complete.
 
+![Nine-step planned roadmap: activate DAO, open Builder, release products, select the first community venture, build and launch, expand key products, open the next cycle, track metrics, and publish a report](assets/pitch-deck/build-market-roadmap.png)
+
+*The pitch deck's planned sequence. The table below provides the same milestones in readable text. [View the full-size slide](assets/pitch-deck/build-market-roadmap.png).*
+
 | Step | Milestone | Intended outcome |
 | --- | --- | --- |
 | 1 | Activate DAO | Activate the DAO / build market with proposals, backing, and public progress tracking |
